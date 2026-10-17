@@ -1,0 +1,2 @@
+# audiotermin
+Tibbiy audio terminlar
